@@ -110,13 +110,12 @@ Smart-Library-System/
 
 - Home Page 
   (screenshots/Home.png)
-  
 - Books Page
   (screenshots/Books.png) 
 - About Page
   (screenshots/About.png) 
 - Contact Page
-- (screenshots/Contact.png) 
+(screenshots/Contact.png) 
 
 ---
 
