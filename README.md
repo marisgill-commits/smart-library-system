@@ -45,12 +45,12 @@ Key highlights include:
 
 Smart-Library-System/
 │
-├── index.html
-├── books.html
-├── about.html
-├── contact.html
-├── style.css
-├── script.js
+├── index.html          # Home Page
+├── books.html          # Books Listing Page
+├── about.html          # About Page
+├── contact.html        # Contact Page
+├── style.css           # Main Styling File
+├── script.js           # JavaScript Interactions
 ├── README.md
 │
 ├── images/
@@ -117,6 +117,7 @@ Smart-Library-System/
 
 ---
 
+
 # 📸 Project Screenshots
 
 ## 🏠 Home Page
@@ -134,6 +135,23 @@ Smart-Library-System/
 ## 📞 Contact Page
 
 ![Contact Page](screenshots/Contact.png)
+
+---
+
+
+
+# 📸 Screenshots
+
+> project screenshots here
+
+- Home Page 
+  (screenshots/Home.png)
+- Books Page
+  (screenshots/Books.png) 
+- About Page
+  (screenshots/About.png) 
+- Contact Page
+(screenshots/Contact.png) 
 
 ---
 
@@ -161,4 +179,10 @@ Smart-Library-System/
 # ⭐ Acknowledgement
 
 Special thanks to **DevAlpha Technologies** for providing this internship opportunity and real-world DevOps learning experience.
+
+```
+
+---
+
+
 
