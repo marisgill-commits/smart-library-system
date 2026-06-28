@@ -1,0 +1,40 @@
+name: Smart Library CI Pipeline
+
+on:
+  push:
+    branches:
+      - main
+      - feature-home
+      - feature-books
+      - feature-about
+      - feature-contact
+
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Verify HTML Files
+        run: |
+          echo "Checking HTML files..."
+          ls *.html
+
+      - name: Verify CSS Files
+        run: |
+          echo "Checking CSS files..."
+          ls *.css
+
+      - name: Verify JavaScript Files
+        run: |
+          echo "Checking JavaScript files..."
+          ls *.js
+
+      - name: CI Pipeline Success
+        run: echo "Smart Library CI Pipeline Completed Successfully!"

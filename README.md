@@ -1,4 +1,6 @@
-# 🌿 Version Control Workflow Project
+# 🌿 Smart Library System
+## 🚀 Version Control Workflow Project
+### DevAlpha Technologies – DevOps Internship Task 01
 
 ## 🚀 Task 01 — DevAlpha Internship
 A professional Git & GitHub workflow implementation showcasing real-world DevOps practices including branching strategy, feature development, and pull request-based collaboration.
@@ -28,12 +30,14 @@ Key highlights include:
 
 ## 🛠️ Tools & Technologies
 
-| Tool | Purpose |
-|------|--------|
-| Git | Version control system |
-| GitHub | Remote repository hosting |
-| HTML5 | Project structure |
-| Pull Requests | Code review & merging workflow |
+| Technology | Purpose |
+|------------|---------|
+| Git | Version control and source code management |
+| GitHub | Remote repository hosting and collaboration |
+| HTML5 | Website structure |
+| CSS3 | User interface styling |
+| JavaScript | Interactive functionality |
+| Visual Studio Code | Code editor |
 
 ---
 
@@ -41,15 +45,24 @@ Key highlights include:
 
 Smart-Library-System/
 │
-├── index.html # Home Page
-├── books.html # Books Listing Page
-├── about.html # About Page
-├── contact.html # Contact Page
-├── style.css # Main Styling File
-├── script.js # JavaScript Interactions
+├── index.html          # Home Page
+├── books.html          # Books Listing Page
+├── about.html          # About Page
+├── contact.html        # Contact Page
+├── style.css           # Main Styling File
+├── script.js           # JavaScript Interactions
+├── README.md
 │
-└── images/ # Project Images
-
+├── images/
+│   ├── logo.png
+│   ├── hero.jpg
+│   └── ...
+│
+└── screenshots/
+    ├── Home.png
+    ├── Books.png
+    ├── About.png
+    └── Contact.png
 ---
 
 # 🔀 Git Workflow Implemented
@@ -104,6 +117,29 @@ Smart-Library-System/
 
 ---
 
+
+# 📸 Project Screenshots
+
+## 🏠 Home Page
+
+![Home Page](screenshots/Home.png)
+
+## 📚 Books Page
+
+![Books Page](screenshots/Books.png)
+
+## 👨‍🏫 About Page
+
+![About Page](screenshots/About.png)
+
+## 📞 Contact Page
+
+![Contact Page](screenshots/Contact.png)
+
+---
+
+
+
 # 📸 Screenshots
 
 > project screenshots here
@@ -118,6 +154,7 @@ Smart-Library-System/
 (screenshots/Contact.png) 
 
 ---
+
 
 # 📚 Learning Outcomes
 
@@ -134,14 +171,18 @@ Smart-Library-System/
 **Name:** Maris Gill  
 **Program:** DevOps Internship - DevAlpha Technologies  
 **Project:** Task 1 - Version Control Workflow  
+**GitHub Repository:**  
+[Smart Library System](https://github.com/marisgill-commits/smart-library-system)
 
 ---
 
 # ⭐ Acknowledgement
 
 Special thanks to **DevAlpha Technologies** for providing this internship opportunity and real-world DevOps learning experience.
+
 ```
 
 ---
+
 
 
